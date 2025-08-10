@@ -1,0 +1,14 @@
+[profile.default]
+src = "contracts"
+remappings = [
+  "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+]
+
+[profile.multisend]
+src = "contracts/multisend"
+libs = ["lib"]
+remappings = [
+  "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+]
+
+

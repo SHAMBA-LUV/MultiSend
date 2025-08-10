@@ -1,0 +1,15 @@
+# MultiSend Deployment Info
+# =========================
+Date: Sat 09 Aug 2025 08:29:23 PM UTC
+Network: Polygon Mainnet
+Chain ID: 137
+
+Contract: MultiSend
+Address: 0xDe55B9C14B1a355AEF70787667713560C76cd5f9
+File: contracts/multisend/MultiSend.sol
+
+Compiler: v0.8.23+commit.f704f362
+Optimizer Runs: 0
+Constructor Args: (none)
+
+Explorer: https://polygonscan.com/address/0xDe55B9C14B1a355AEF70787667713560C76cd5f9

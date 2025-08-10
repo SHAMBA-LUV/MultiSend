@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Foundry
+cache/
+out/
+cache_forge/
+out_forge/
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
