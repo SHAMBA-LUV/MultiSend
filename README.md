@@ -51,4 +51,4 @@ A gas-efficient multisend smart contract for Polygon that can hold and distribut
 
 ## License
 
-MIT
+created for SHAMBA LUV (c) 2025 unlicenced and released to the community at large under MultiSend (c) 2025 MIT license
