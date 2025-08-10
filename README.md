@@ -51,4 +51,5 @@ A gas-efficient multisend smart contract for Polygon that can hold and distribut
 
 ## License
 
-created for SHAMBA LUV (c) 2025 unlicenced and released to the community at large under MultiSend (c) 2025 MIT license
+created for SHAMBA LUV (c) 2025 unlicenced and released to the community at large under MultiSend (c) 2025 MIT license<br /><br />
+<a href="https://youtu.be/9QqEoem7Vfs?si=d-1pesK7lm7KDWI6">Don’t Work for Money. Command It | Machiavelli’s Law of Power</a>
